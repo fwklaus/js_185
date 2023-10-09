@@ -1,0 +1,16 @@
+{
+  "name": "cmd_ln_w_database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "reset": "./idem_script",
+    "start": "./expense"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-postgres": "^0.6.2"
+  }
+}

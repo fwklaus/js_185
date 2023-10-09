@@ -1,0 +1,3 @@
+psql -d todo-lists < lib/schema.sql
+psql -d todo-lists < lib/seed-data.sql
+psql -d todo-lists < lib/users.sql

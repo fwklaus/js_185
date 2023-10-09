@@ -1,0 +1,4 @@
+dropdb expenses
+createdb expenses
+
+psql -d expenses < schema.sql
